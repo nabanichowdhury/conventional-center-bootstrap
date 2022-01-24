@@ -4,7 +4,7 @@
 .hot{
     position: relative;
     left: 200px;
-    top: -40px;
+    top: -45px;
 }
 .column{
     border-radius: 30px;
@@ -32,4 +32,13 @@
 }
 .columnitems{
     font-weight: 200;
+}
+.fourthpara{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.questionimage{
+    width: 546px;
+height: 364px;
 }
