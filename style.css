@@ -40,5 +40,16 @@
 }
 .questionimage{
     width: 546px;
-height: 364px;
+height: 318px;
+margin-left: 20px;
+}
+.footerflex{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    height: 200px;
+    padding-top: 20px;
+    padding-right: 20px;
+    margin-top: 150px;
 }
