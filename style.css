@@ -1,0 +1,35 @@
+.firstpra{
+    margin-top: 20%;
+}
+.hot{
+    position: relative;
+    left: 200px;
+    top: -40px;
+}
+.column{
+    border-radius: 30px;
+    padding-bottom: 10px;
+    padding-top: 50px;
+    height: 480px;
+    font-family: 'Poppins', sans-serif;
+    line-height: 30px;
+
+
+}
+.column3{
+    border-radius: 30px;
+    padding-bottom: 20px;
+    padding-top: 30px;
+    height: 480px;
+    font-family: 'Poppins', sans-serif;
+    line-height: 35px;
+    background-color: #3F87F5
+    ;
+}
+.columnheading{
+    font-size: 40px;
+    font-weight: 400;
+}
+.columnitems{
+    font-weight: 200;
+}
