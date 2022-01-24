@@ -43,7 +43,7 @@
 .btn-price{
     color:#3F87F5 ;
     background-color: 
-    #eed8e6;
+    #f8eaf3;
     padding-left: 40px;
     padding-right: 40px;
     border-radius: 20px;
@@ -69,4 +69,19 @@ margin-left: 20px;
     padding-top: 20px;
     padding-right: 20px;
     margin-top: 150px;
+}
+
+@media only screen and (max-width:688px) {
+    main{
+        overflow-x: hidden;
+    }
+    .lastimage{
+        width: 300px;
+        margin-left: 0;
+        margin-bottom: 20px;
+    }
+    .banner-1{
+        height: 500px;
+    }
+    
 }
